@@ -2,7 +2,7 @@ JavaScript Project --
 
 # Menu
 
-In this JavaScript project, we're going to create static restaurant menu page that filters thru different food menus. According to Yazeed Bzadough, he explains the higher order functions which are map, reduce, & filter methods and also states that --the greatest benefit of HOFs is greater reusability.-- [Menu](https://carson3377.github.io/Menu/Menu.html)
+In this JavaScript project, we're going to create static restaurant menu page that filters thru different food menus. According to Yazeed Bzadough, he explains the higher order functions which are map, reduce, & filter methods and also states that --the greatest benefit of HOFs is greater reusability.-- [Menu](https://carson3377.github.io/Menu/menu.html)
 
 Credit: FreeCodeCamp.org
 
