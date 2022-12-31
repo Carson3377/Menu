@@ -69,6 +69,10 @@ body {
   color: var(--clr-grey-1);
   line-height: 1.5;
   font-size: 0.875rem;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZsY1_NM-QKTfa6YtoxnQi03HQgNcnXewfJg&usqp=CAU);
+  background-repeat: no-repeat;
+  background-size: cover;
+  backdrop-filter: blur(25px);
 }
 
 ul {
